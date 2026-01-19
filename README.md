@@ -1,7 +1,5 @@
 # 42_Milestone4_NetPratice
 
-*Este projeto foi criado como parte do currículo da 42 por bedantas.*
-
 ## Descrição
 
 O **NetPractice** é um projeto prático da escola 42 cujo objetivo é introduzir os conceitos fundamentais de redes de computadores. O projeto consiste na resolução de exercícios interativos onde é necessário configurar corretamente endereços IP, máscaras de sub-rede e gateways, além de compreender o papel de dispositivos como roteadores e switches para que uma rede funcione corretamente.
